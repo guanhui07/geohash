@@ -55,6 +55,9 @@ CREATE TABLE `user_search_location` (
 
 其他资料：
 
+扩展
+https://github.com/shenzhe/geohash
+
 geohash演示: http://openlocation.org/geohash/geohash-js/
 wiki: http://en.wikipedia.org/wiki/Geohash
 原理: https://github.com/CloudSide/geohash/wiki
