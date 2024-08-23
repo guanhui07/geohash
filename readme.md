@@ -34,7 +34,7 @@ Array
 ```
 
 ```sql
-CREATE TABLE `user_search_location` (
+CREATE TABLE `user_location` (
   `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
   `user_id` bigint(20) unsigned NOT NULL DEFAULT '0' COMMENT '用户ID',
   `sex` tinyint(3) unsigned NOT NULL DEFAULT '0' COMMENT '0：未知，1：男，2：女',
